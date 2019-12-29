@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">EAC4_Molina_M</string>
+
+    <string name="noob">You’re a n00b!</string>
+    <string name="done">Well done!</string>
+    <string name="yeah">Oh yeah!! You’re a pro!</string>
+</resources>
